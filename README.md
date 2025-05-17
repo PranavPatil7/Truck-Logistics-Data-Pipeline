@@ -2,9 +2,6 @@
 
 ## Data Engineering Zoom Camp | 2024 Cohort | Capstone Project 
 
-Author: [*Diego Gutierrez*](https://www.linkedin.com/in/diego-gutierrez-1874b17b/) 
-
-  >**IMPORTANT;** _to skip the project overview & head staight to set up, click [here](setup.md)_
 
 -------
 
@@ -23,7 +20,7 @@ Author: [*Diego Gutierrez*](https://www.linkedin.com/in/diego-gutierrez-1874b17b
 * [Further Ideas & Next Steps](#further-ideas--next-steps)
 * [Acknowledgements & Credits](#acknowledgements--credits)
 
-    >**NOTE;** _to skip the project overview & head staight to set up, click [here](setup.md)_
+
 
 ------------------------
 
@@ -117,33 +114,5 @@ Dashboard Link: [HERE](https://lookerstudio.google.com/s/pBt7UHZBg1k)
 
 -----------------------------
 
-### Further Ideas & Next Steps
-
-- Use a larger dataset
-- Create customer_rates files separated by year
-- With more data it would be possible to use tools such as dlt
-- Use partitions and clustering
-
------------------------------
-
-### Acknowledgements & Credits
-
-Acknowledgement to [DataTalksClub](https://datatalks.club/)! for mentoring us through the Data Engineering Zoom Camp over the last 10 weeks. It has been a privilege to take part in the Spring '24 Cohort, go and check them out!
- 
-> "DataTalks.Club - the place to talk about data! We are a community of people who are passionate about data. Join us to talk about everything related to data, to learn more about applied machine learning with our free courses and materials, to discuss the engineering aspects of data science and analytics, to chat about career options and learn tips and tricks for the job interviews, to discover new things and have fun!
-
-> Our weekly events include:
-
-> 👨🏼‍💻 Free courses and weekly study groups where you can start practicing within a friendly community of learners
-
-> 🔧 Workshops where you can get hands-on tutorials about technical topics
-
-> ⚙️ Open-Source Spotlight, where you can discover open-source tools with a short demo video
-
-> 🎙 Live Podcasts with practitioners where they share their experience (and the recordings too)
-
-> 📺 Webinars with slides, where we discuss technical aspects of data science"
-
-[Data Talks Club](https://www.linkedin.com/company/datatalks-club/)
 
 ---------------------------
